@@ -1,6 +1,6 @@
 /*
 -- ===================================================================================
--- Stored Procedure: bronze.load_bronze
+-- Stored Procedure:Load_bronze_layer (Source -> Bronze)
 -- ===================================================================================
 -- Purpose: This procedure performs a full reload of the bronze layer tables.
 --
